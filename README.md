@@ -5,8 +5,11 @@ Innovative Developer
 About Me : 
 
 🔭 I’m currently working on Blockchain, Data Science & Cryptography
+
 🌱 I’m currently learning GoLang for Chain Development
+
 👯 I’m looking to collaborate on Different kinds of Software Projects
+
 ⚡ Fun fact: I always reply mails in minutes
 
 🌱 Ask Freely!
